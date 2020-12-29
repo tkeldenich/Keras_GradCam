@@ -79,7 +79,6 @@ Nous pouvons maintenant **lancer le réseau pré-entraîné VGG16** sur l'image 
 
 
 ```
-#import tensorflow.keras.applications.imagenet_utils.decode_predictions as decode_predictions
 from keras.applications.imagenet_utils import decode_predictions
 
 predict = model.predict(image)
