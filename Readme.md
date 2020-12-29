@@ -219,6 +219,5 @@ cv2.imwrite('/Dalmatian_GradCam.jpg', superimposed_img)
 
 
 
-    True
 
 
