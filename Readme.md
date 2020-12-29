@@ -1,7 +1,6 @@
 ## **Keras Grad-Cam**
 
 **source:**
-- https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-gradcam-554a85dd4e48
 - Francois Chollet - Deep Learning with Python (2017, Manning Publications)
 
 Le **GradCam** est une **technique de visualisation** : elle est utile pour comprendre quelles parties d'une image donnée ont conduit un convnet à sa décision finale de classification.
