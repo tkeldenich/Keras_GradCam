@@ -1,4 +1,4 @@
-## **Keras Grad-Cam**
+## **Keras Grad-Cam** -  Détaillé [ici](https://inside-machinelearning.com/keras-gradcam-tutoriel/)
 
 **source:**
 - Francois Chollet - Deep Learning with Python (2017, Manning Publications)
